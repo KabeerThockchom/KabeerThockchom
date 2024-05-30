@@ -5,7 +5,8 @@ Copy code
 I'm a multifaceted professional with expertise spanning full-stack development, economics, data science, and product management. My passion lies in leveraging AI and technology to solve real-world problems, enhance customer experiences, and drive business success.
 
 ### 💼 Professional Experience
-- **AI Technology Product Aficionado:** Artificial Intelligence and Data Engineer @ EY
+- **Current** Artificial Intelligence and Data Engineer @ EY
+- **Prev** Quantitative Consultant @ EY, Research Assistant 
 
 ### 📫 Reach Me
 - **LinkedIn:** [Kabeer Thockchom](https://www.linkedin.com/in/kabeer-thockchom/)
