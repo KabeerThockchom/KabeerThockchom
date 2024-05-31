@@ -1,4 +1,3 @@
-Copy code
 # 👋 Hi, I’m Kabeer Thockchom
 
 ## About Me
