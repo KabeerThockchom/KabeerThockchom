@@ -5,6 +5,7 @@ I'm a multifaceted professional with expertise spanning full-stack development, 
 
 ### 📫 Reach Me
 - **LinkedIn:** [Kabeer Thockchom](https://www.linkedin.com/in/kabeerthockchom/)
+- **Portfolio** [Portfolio](https://kabeerthockchom.github.io/Portfolio/)
 
 ### 💡 Future Aspirations
 I aim to create innovative AI-powered solutions that transform industries and improve everyday life. Whether it's developing cutting-edge applications or driving data-driven strategies, I'm always eager to tackle new challenges and push the boundaries of what's possible.
